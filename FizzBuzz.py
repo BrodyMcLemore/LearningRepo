@@ -15,7 +15,7 @@ def Check4 (num):
         return False
 
 # User Interface
-Lenght = int(input("How long do you want to FizzBuzz {Upper limit}: "))
+Lenght = int(input("How long do you want to FizzBuzz {Upper limit}: Hello  "))
 print("-----------------------------------")
 
 # Command Loop
